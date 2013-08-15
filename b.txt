@@ -17,5 +17,5 @@ adsfasdf
 
 asdfa
 asdfasd
-asdfasdf
+asdfasdf getDebugStatus asdfasdf
 asdfasdfsd
