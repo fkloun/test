@@ -11,11 +11,3 @@ asdfasdf
 asdfasdfasdfasd
 asdfadsf
 asdfsda
-asdfasdfdsa
-
-adsfasdf
-
-asdfa
-asdfasd
-asdfasdf getDebugStatus asdfasdf
-asdfasdfsd
