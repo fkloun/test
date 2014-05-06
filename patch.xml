@@ -1,14 +1,13 @@
-diff --git a/newfile b/newfile
-index 5052a10..edf2c42 100644
---- a/newfile
-+++ b/newfile
-@@ -2,4 +2,6 @@ asdfasdfads
+diff --git a/testfile b/testfile
+index a9c6edb..08c5528 100644
+--- a/testfile
++++ b/testfile
+@@ -17,4 +17,5 @@ asdfsdf
+ adsfasdfs
  
- asdfasdf
- 
--asdfsadfd
+ asfasdf
+-asdfasd
 \ No newline at end of file
-+asdfsadfd
-+
-+test
++asdfasd
++asdfsad
 \ No newline at end of file
