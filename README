@@ -9,3 +9,6 @@ dsfasfd
 adsfgasdga
 
 SdfSDfsdf
+
++<p>{{i18n "Название провинции" }}:</p>
++<p>{{ name }}</p>
