@@ -1,0 +1,3 @@
+[submodule "testgit"]
+	path = testgit
+	url = https://klfoong@bitbucket.org/klfoong/testgit.git
