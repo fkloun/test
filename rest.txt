@@ -1,0 +1,397 @@
+{
+    "expand": "renderedFields,names,schema,transitions,operations,editmeta,changelog",
+    "id": "10000",
+    "self": "http://localhost:8518/rest/api/latest/issue/10000",
+    "key": "TST-1",
+    "fields": {
+        "summary": "asdfasdf",
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "timetracking": {},
+        "issuetype": {
+            "self": "http://localhost:8518/rest/api/2/issuetype/1",
+            "id": "1",
+            "description": "A problem which impairs or prevents the functions of the product.",
+            "iconUrl": "http://localhost:8518/images/icons/bug.gif",
+            "name": "Bug",
+            "subtask": false
+        },
+        "votes": {
+            "self": "http://localhost:8518/rest/api/2/issue/TST-1/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "resolution": null,
+        "fixVersions": [],
+        "resolutiondate": null,
+        "timespent": null,
+        "reporter": {
+            "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+            "name": "kahloun.foong",
+            "emailAddress": "kahloun.foong@customware.net",
+            "avatarUrls": {
+                "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+            },
+            "displayName": "kah loun",
+            "active": true
+        },
+        "aggregatetimeoriginalestimate": null,
+        "updated": "2013-05-20T15:56:33.000+0800",
+        "created": "2012-11-06T18:47:20.000+0800",
+        "description": "asdfdsafadsf",
+        "priority": {
+            "self": "http://localhost:8518/rest/api/2/priority/3",
+            "iconUrl": "http://localhost:8518/images/icons/priority_major.gif",
+            "name": "Major",
+            "id": "3"
+        },
+        "duedate": null,
+        "issuelinks": [],
+        "watches": {
+            "self": "http://localhost:8518/rest/api/2/issue/TST-1/watchers",
+            "watchCount": 2,
+            "isWatching": true
+        },
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 0,
+            "total": 0,
+            "worklogs": []
+        },
+        "subtasks": [],
+        "status": {
+            "self": "http://localhost:8518/rest/api/2/status/4",
+            "description": "This issue was once resolved, but the resolution was deemed incorrect. From here issues are either marked assigned or resolved.",
+            "iconUrl": "http://localhost:8518/images/icons/status_reopened.gif",
+            "name": "Reopened",
+            "id": "4"
+        },
+        "labels": [],
+        "workratio": -1,
+        "assignee": {
+            "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+            "name": "kahloun.foong",
+            "emailAddress": "kahloun.foong@customware.net",
+            "avatarUrls": {
+                "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+            },
+            "displayName": "kah loun",
+            "active": true
+        },
+        "attachment": [
+            {
+                "self": "http://localhost:8518/rest/api/2/attachment/10002",
+                "id": "10002",
+                "filename": "FishEye Data Directory.pdf",
+                "author": {
+                    "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                    "name": "kahloun.foong",
+                    "emailAddress": "kahloun.foong@customware.net",
+                    "avatarUrls": {
+                        "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                        "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                    },
+                    "displayName": "kah loun",
+                    "active": true
+                },
+                "created": "2012-11-06T18:49:12.000+0800",
+                "size": 38670,
+                "mimeType": "application/pdf",
+                "content": "http://localhost:8518/secure/attachment/10002/FishEye+Data+Directory.pdf"
+            }
+        ],
+        "aggregatetimeestimate": null,
+        "project": {
+            "self": "http://localhost:8518/rest/api/2/project/TST",
+            "id": "10000",
+            "key": "TST",
+            "name": "test",
+            "avatarUrls": {
+                "16x16": "http://localhost:8518/secure/projectavatar?size=small&pid=10000&avatarId=10011",
+                "48x48": "http://localhost:8518/secure/projectavatar?pid=10000&avatarId=10011"
+            }
+        },
+        "versions": [],
+        "environment": null,
+        "timeestimate": null,
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "components": [],
+        "comment": {
+            "startAt": 0,
+            "maxResults": 9,
+            "total": 9,
+            "comments": [
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10000",
+                    "id": "10000",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "body": "adsgadsfasdf",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "created": "2012-11-06T18:47:48.000+0800",
+                    "updated": "2012-11-06T18:47:48.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10001",
+                    "id": "10001",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "body": "asdfasdfasdf",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "created": "2012-11-06T18:48:08.000+0800",
+                    "updated": "2012-11-06T18:48:08.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10002",
+                    "id": "10002",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "body": "asdfasdfasdf",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "created": "2012-11-06T18:49:12.000+0800",
+                    "updated": "2012-11-06T18:49:12.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10100",
+                    "id": "10100",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "body": "cr-1",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "created": "2013-05-20T15:23:26.000+0800",
+                    "updated": "2013-05-20T15:23:26.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10101",
+                    "id": "10101",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "body": "[CR-1]",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=kahloun.foong",
+                        "name": "kahloun.foong",
+                        "emailAddress": "kahloun.foong@customware.net",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "kah loun",
+                        "active": true
+                    },
+                    "created": "2013-05-20T15:23:56.000+0800",
+                    "updated": "2013-05-20T15:23:56.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10102",
+                    "id": "10102",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "body": "CR-1",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "created": "2013-05-20T15:53:03.000+0800",
+                    "updated": "2013-05-20T15:53:03.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10103",
+                    "id": "10103",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "body": "CR-PR1-1",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "created": "2013-05-20T15:55:51.000+0800",
+                    "updated": "2013-05-20T15:55:51.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10104",
+                    "id": "10104",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "body": "CR-PR1-1",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "created": "2013-05-20T15:56:22.000+0800",
+                    "updated": "2013-05-20T15:56:22.000+0800"
+                },
+                {
+                    "self": "http://localhost:8518/rest/api/2/issue/10000/comment/10105",
+                    "id": "10105",
+                    "author": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "body": "CR-2",
+                    "updateAuthor": {
+                        "self": "http://localhost:8518/rest/api/2/user?username=admin",
+                        "name": "admin",
+                        "emailAddress": "admin@admin",
+                        "avatarUrls": {
+                            "16x16": "http://localhost:8518/secure/useravatar?size=small&avatarId=10122",
+                            "48x48": "http://localhost:8518/secure/useravatar?avatarId=10122"
+                        },
+                        "displayName": "admin",
+                        "active": true
+                    },
+                    "created": "2013-05-20T15:56:33.000+0800",
+                    "updated": "2013-05-20T15:56:33.000+0800"
+                }
+            ]
+        },
+        "timeoriginalestimate": null,
+        "aggregatetimespent": null
+    }
+}
