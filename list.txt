@@ -115,9 +115,9 @@ glue-5.0b2.jar
 guava-10.0.1.jar
 jackson-core-asl-1.9.1.jar
 jackson-mapper-asl-1.9.1.jar
-jai-core-1.1.3.jar
 jai_codec-1.1.3.jar
 jai_core-1.1.3.jar
+jai-core-1.1.3.jar
 jcaptcha-2.0-alpha-1.jar
 jcaptcha-api-2.0-alpha-1.jar
 jcip-annotations-1.0.jar
