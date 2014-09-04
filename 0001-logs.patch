@@ -1,0 +1,20 @@
+From ecc18f4b28e4f9aff9ca389582c6ce842533e3c5 Mon Sep 17 00:00:00 2001
+From: "D6\\\\BB\\kah loun" <fkloun@gmail.com>
+Date: Thu, 4 Jul 2013 20:50:58 +0800
+Subject: [PATCH] logs
+
+---
+ "\"target/logs\"/log" | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 "\"target/logs\"/log"
+
+diff --git "a/\"target/logs\"/log" "b/\"target/logs\"/log"
+new file mode 100644
+index 0000000..6889d28
+--- /dev/null
++++ "b/\"target/logs\"/log"
+@@ -0,0 +1 @@
++asdfasdgafdg
+-- 
+1.8.4
+

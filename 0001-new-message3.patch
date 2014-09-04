@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addPatch>
+<patch>diff --git a/newfile b/newfile
+index 39ba51c..d7664bd 100644
+--- a/newfile
++++ b/newfile
+@@ -1,11 +1,12 @@
+ zsdf
+ asdf
+ asdf
+ 
+ asdfasdf
+ 
+ asdfsadfd
+ 
+ test
+ 
+-asdfsd
+\ No newline at end of file
++asdfsd
++sdfsfd
+\ No newline at end of file</patch>
+<anchor>
+<anchorPath>/</anchorPath>
+<anchorRepository>test</anchorRepository>
+<stripCount>2</stripCount>
+</anchor>
+</addPatch>
+
