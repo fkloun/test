@@ -2,3 +2,6 @@
 	path = testgit
 	url = https://klfoong@bitbucket.org/klfoong/testgit.git
 	ignore = all
+[submodule "submod"]
+	path = submod
+	url = https://klfoong@bitbucket.org/klfoong/testgit.git
