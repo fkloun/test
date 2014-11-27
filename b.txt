@@ -16,4 +16,8 @@ asdfasdfdsa
 adsfasdf
 
 asdfasd
+<<<<<<< HEAD
 asdfasdf
+=======
+asdfasd
+>>>>>>> feature/test
