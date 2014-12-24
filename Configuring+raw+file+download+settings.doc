@@ -1,0 +1,318 @@
+Message-ID: <1628080584.6383.1419417800402.JavaMail.svc_confluence_prod@node471.prod.inf.atlassian.com>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6382_1984292753.1419417800401"
+
+------=_Part_6382_1984292753.1419417800401
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Configuring raw file download settings</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Configuring raw file download settings</h1>
+    <div class=3D"Section1">
+        <p>This page describes how to configure FishEye to either immediate=
+ly display downloaded files in the browser, or show the browser's &quot;Sav=
+e As&quot; dialog.<span style=3D"line-height: 1.5625;">&nbsp;</span></p>
+<h3 id=3D"Configuringrawfiledownloadsettings-Configuration">Configuration</=
+h3>
+<p>As a FishEye administrator:</p>
+<ol>
+<li>Log in to the admin area and click <strong>Server</strong> (under 'Glob=
+al Settings').&nbsp;</li>
+<li><p>Click <strong>Edit Details</strong> under 'File Download Setting' an=
+d choose a setting:<br /><br /></p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Mode</p></th>
+<th class=3D"confluenceTh"><p>Characteristics</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Smart</strong> (default)</p></td>
+<td class=3D"confluenceTd"><p>Files that can safely be displayed inline in =
+the browser, will be. Files that are on FishEye's default list of file exte=
+nsions that are considered dangerous, will always be accessed via the &quot=
+;Save As&quot; dialog. For files that are considered dangerous, but consist=
+ of only plain text (such as .html files), this mode will attempt to force =
+the browser to show (but not execute) the file.</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><strong>Secure</strong></p></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><p>All files, regardless of whethe=
+r they are considered dangerous or not, are forced to be always accessed vi=
+a the &quot;Save As&quot; dialog instead of being displayed inline.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Insecure</strong></p></td>
+<td class=3D"confluenceTd"><p>All files downloaded via FishEye will be disp=
+layed in the browser after clicking.</p></td>
+</tr>
+</tbody>
+</table>
+</div></li>
+<li>Click <strong>Update</strong>.&nbsp;</li>
+</ol>
+<p><img class=3D"emoticon emoticon-information" src=3D"c4a3a128140f72f37f97=
+5d788985e7a0" data-emoticon-name=3D"information" alt=3D"(info)" width=3D"16=
+" height=3D"16" /> Internet Explorer versions 8 and 9 will not display safe=
+ content as plain text.</p>
+<h3 id=3D"Configuringrawfiledownloadsettings-DefaultfileextensionsthatFishE=
+yewillconsiderasexecutableinthebrowser">Default file extensions that FishEy=
+e will consider as executable in the browser</h3>
+<p>In Smart mode, downloading files with any of the following extensions wi=
+ll always trigger the&nbsp;<span>&quot;Save As&quot;</span> dialog, instead=
+ of displaying the contents of the file in the browser directly, except in =
+FireFox, Safari and Chrome.</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>File Extensions</p></th>
+<th colspan=3D"1" class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>.txt</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Normally these are just text files=
+, but a malicious user could write html in this file, and cause XSS inject =
+attacks if the browser executes the content instead of displaying it. Can b=
+e made to be <span>safely </span>displayed in all supported browsers, excep=
+t Internet Explorer.</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>.htm , .html, <span>.xhtml, .xml, <span>.svg<=
+/span> </span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Similar to .txt, these are text fi=
+les, but contains html. <span>Can be made to be <span>safely </span>display=
+ed in all supported browsers, except Internet Explorer.</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">.swf, <span>.flv , <span>.f4v, <sp=
+an>.f4p, .f4b</span> </span> </span></td>
+<td colspan=3D"1" class=3D"confluenceTd">Flash object file.</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">.cab</td>
+<td colspan=3D"1" class=3D"confluenceTd">Windows Cabinet File.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p>To add items to the default list in FishEye, please contact Atlassian Su=
+pport.</p>
+    </div>
+</body>
+</html>
+------=_Part_6382_1984292753.1419417800401
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/c4a3a128140f72f37f975d788985e7a0
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAG1BMVEX/
+//87c687c687c687c687c687c6////87c68225wXAAAACXRSTlMAEWaqu8zu///VQmatAAAACXBI
+WXMAAAsSAAALEgHS3X78AAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M26LyyjAAA
+ABR0RVh0Q3JlYXRpb24gVGltZQA2LzEvMTM4qUXQAAAARklEQVQImWNgYFDu6DBiAALRDiAIZGBg
+zAAx2gQYWDvAIIBBo6OjvaKjo4nBA8JoYeiAAhADJIKNAVcM1w43EG4F3FKYMwD5VTVUBOW+rQAA
+AABJRU5ErkJggg==
+------=_Part_6382_1984292753.1419417800401--
